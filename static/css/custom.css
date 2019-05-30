@@ -1,0 +1,33 @@
+/* #contact{
+    background: #e6e6e6;
+}
+footer{
+    visibility: hidden;
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    overflow: hidden;
+    top: -10px
+} */
+footer{
+    background: #bdbdbd;
+    color: #3d3d3d !important;
+    
+} 
+p{
+    text-align: justify;
+}
+.pub-abstract{
+    text-align: justify;
+}
+#skills, #teaching, #publications, #contact, #projects{
+    margin: 0%;
+    padding: 3% 0%;
+}
+a.navbar-brand{
+    text-transform: capitalize !important;
+    font-variant: small-caps !important;
+    font-size: 150% !important;
+}
+
+.powerd
